@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap');
+
+.font-instrument {
+  font-family: 'Instrument Serif', serif;
+}
+
+.title-accent {
+  background: linear-gradient(90deg, #ff7a1a, #ff914d, #ff6a00);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
